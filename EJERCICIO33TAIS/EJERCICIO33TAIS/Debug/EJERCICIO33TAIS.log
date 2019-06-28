@@ -1,0 +1,15 @@
+﻿Build started 21/01/2018 23:12:51.
+     1>Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\EJERCICIO33TAIS\EJERCICIO33TAIS.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Archivos de programa (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 33.cpp
+         33.cpp
+     1>d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio33tais\ejercicio33tais\33.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio33tais\ejercicio33tais\33.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\Archivos de programa (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\Debug\EJERCICIO33TAIS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\Debug\EJERCICIO33TAIS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\Debug\EJERCICIO33TAIS.lib" /MACHINE:X86 Debug\33.obj
+         EJERCICIO33TAIS.vcxproj -> D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\Debug\EJERCICIO33TAIS.exe
+     1>Done Building Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO33TAIS\EJERCICIO33TAIS\EJERCICIO33TAIS.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95

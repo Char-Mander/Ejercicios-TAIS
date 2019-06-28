@@ -1,0 +1,21 @@
+﻿Build started 29/01/2018 18:29:40.
+     1>Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\Ejercicio8Práctica\Ejercicio8Práctica\Ejercicio8Práctica.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Archivos de programa (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 08.cpp
+         08.cpp
+     1>d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio8práctica\ejercicio8práctica\priorityqueue.h(115): error C2664: 'bool std::greater<int>::operator ()(const _Ty &,const _Ty &) const' : cannot convert argument 1 from 'artistas' to 'const int &'
+                 with
+                 [
+                     _Ty=int
+                 ]
+                 Reason: cannot convert from 'artistas' to 'const int'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+                 d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio8práctica\ejercicio8práctica\priorityqueue.h(112) : while compiling class template member function 'void PriorityQueue<artistas,std::greater<int>>::flotar(size_t)'
+                 d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio8práctica\ejercicio8práctica\priorityqueue.h(65) : see reference to function template instantiation 'void PriorityQueue<artistas,std::greater<int>>::flotar(size_t)' being compiled
+                 d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio8práctica\ejercicio8práctica\08.cpp(24) : see reference to class template instantiation 'PriorityQueue<artistas,std::greater<int>>' being compiled
+     1>d:\escritorio\universidad\3º e\1er cuatrimestre\tais\ejercicios\ejercicio8práctica\ejercicio8práctica\priorityqueue.h(115): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\Ejercicio8Práctica\Ejercicio8Práctica\Ejercicio8Práctica.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.58

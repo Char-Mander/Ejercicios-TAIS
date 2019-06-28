@@ -1,0 +1,13 @@
+﻿Build started 11/12/2017 9:27:57.
+     1>Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\EJERCICIO24TAIS\EJERCICIO24TAIS.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Archivos de programa (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 24.cpp
+         24.cpp
+       Link:
+         D:\Archivos de programa (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\Debug\EJERCICIO24TAIS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\Debug\EJERCICIO24TAIS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\Debug\EJERCICIO24TAIS.lib" /MACHINE:X86 Debug\24.obj
+     1>LINK : fatal error LNK1168: cannot open D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\Debug\EJERCICIO24TAIS.exe for writing
+     1>Done Building Project "D:\Escritorio\Universidad\3º E\1er Cuatrimestre\TAIS\Ejercicios\EJERCICIO24TAIS\EJERCICIO24TAIS\EJERCICIO24TAIS.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.03
